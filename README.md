@@ -32,4 +32,4 @@ https://youtube-clone-n5nvtv5s6-rvrgithub.vercel.app/
  ![ac178a71-dfd5-40da-975c-6a4d14082beb](https://user-images.githubusercontent.com/96066976/171724868-1f16aa6e-d5a1-40bc-8cf0-3d451340f5fc.jpg)
 
 
-# Happy Coading !!✨
+# Happy Coding !!✨
